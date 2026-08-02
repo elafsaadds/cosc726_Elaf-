@@ -1,2 +1,2 @@
-# cosc726_Elaf-
+# cosc726
 Project1_Agentic ai
